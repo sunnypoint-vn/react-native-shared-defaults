@@ -1,0 +1,8 @@
+{
+  "name": "react-native-shared-defaults",
+  "version": "1.0.7",
+  "keywords": ["react-native"],
+  "dependencies": {
+    "bluebird": "^3.5.0"
+  }
+}
