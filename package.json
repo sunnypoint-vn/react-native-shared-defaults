@@ -1,8 +1,12 @@
 {
-  "name": "react-native-shared-defaults",
-  "version": "1.0.7",
-  "keywords": ["react-native"],
-  "dependencies": {
-    "bluebird": "^3.5.0"
-  }
+    "name": "react-native-shared-defaults",
+    "version": "1.0.8",
+    "author": "HTSI <siht@sunnypoints.net>",
+    "description": "Implement read/write SharedPreferences (Android) & UserDefault (iOS)",
+    "license": "MIT",
+    "homepage": "https://github.com/sunnypoint-vn/react-native-shared-defaults",
+    "keywords": ["react-native", "SharedPreferences", "UserDefault"],
+    "dependencies": {
+        "bluebird": "^3.5.0"
+    }
 }
